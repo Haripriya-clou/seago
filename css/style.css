@@ -104,7 +104,7 @@ a{text-decoration:none; color:inherit;}
 /* ================= NAV ================= */
 header.nav{
   position:fixed; top:0; left:0; width:100%; z-index:60;
-  background:rgba(0,0,0,.82); -webkit-backdrop-filter:blur(14px); backdrop-filter:blur(14px);
+  background:#000;
   border-bottom:1px solid rgba(255,255,255,.08); transition:box-shadow .3s;
 }
 .nav-row{ display:flex; align-items:center; justify-content:space-between; height:80px; }
