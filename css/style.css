@@ -679,3 +679,9 @@ img.loaded{
 ::-webkit-scrollbar-thumb:hover{
   background:#A0AAB8;
 }
+@media (max-width:720px){
+  .hero,
+  .page-hero{
+    padding-top:180px;
+  }
+}
