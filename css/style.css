@@ -449,7 +449,7 @@ footer{ background:var(--navy); color:#B9C3D4; padding:76px 0 30px; margin-top:4
   .nav-cta .btn-ghost{ display:none; }
   .burger{ display:flex; }
   .grid-4{ grid-template-columns:1fr 1fr; }
-  .hero{ padding:60px 0 56px; }
+  .hero{ padding:100px 0 56px; }
   .hero-stats{ gap:30px 34px; }
   .wave-wrap{ height:70px; }
   .cta{ padding:56px 26px; border-radius:22px; }
@@ -461,7 +461,7 @@ footer{ background:var(--navy); color:#B9C3D4; padding:76px 0 30px; margin-top:4
   .preview-banner{ font-size:11px; padding:9px 12px; }
   .scroll-cue{ display:none; }
   .cursor-glow{ display:none; }
-  .page-hero{ padding:60px 0 52px; }
+  .page-hero{ padding:100px 0 52px; }
   .field-row{ grid-template-columns:1fr; gap:0; }
   .form-card{ padding:28px 22px; }
   .spec-grid{ grid-template-columns:1fr; }
